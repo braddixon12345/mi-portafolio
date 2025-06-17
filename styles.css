@@ -1,0 +1,47 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+header{
+    font-size: 40px;
+    text-shadow: 3px 1px #ffff;
+    background-color: rgba(228, 149, 71, 0.233);
+    margin: 3px;
+    padding: 5px 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+p{
+    border-style: ridge;
+    border: 20px #6c5959;
+    font-size: 18px;
+    font-style: italic;
+    background-color: rgb(241, 137, 137);
+    margin-right: 60px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    border-radius: 5px;
+}
+ol{
+    margin-right: 200px;
+    border: 10px 10px crimson;
+      border-style: double;
+    font-size: 30px;
+}
+h1{
+        text-shadow: 3px 1px #ffff;
+
+}
+img{
+    width: 300px; height: 400px;
+    box-shadow: 2px 2px #6c5959;
+}
+h2{
+        text-shadow: 3px 1px #ffff;
+}
+h3{
+        text-shadow: 3px 1px #ffff;
+
+}
